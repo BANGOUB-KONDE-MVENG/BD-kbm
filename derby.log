@@ -1,14 +1,16 @@
-Fri May 27 14:20:21 CEST 2016 : Apache Derby Network Server - 10.10.1.3 - (1557168) démarré et prêt à accepter les connexions sur le port 1527
+Fri Jun 10 00:18:01 CEST 2016 : Apache Derby Network Server - 10.10.1.3 - (1557168) démarré et prêt à accepter les connexions sur le port 1527
 ----------------------------------------------------------------
-Fri May 27 14:20:21 CEST 2016:
-Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.10.1.3 - (1557168) : instance a816c00e-0154-f228-7f37-00003e26dbbd 
-dans le répertoire de base de données D:\School_Utbm\LO54\envDev\Data\Derby\FORMATION avec le chargeur de classe sun.misc.Launcher$AppClassLoader@1d44bcfa
-Chargé de file:/D:/School_Utbm/LO54/envDev/App/jdk/db/lib/derby.jar
+Fri Jun 10 00:18:01 CEST 2016:
+Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.10.1.3 - (1557168) : instance a816c00e-0155-373e-3fcc-ffff8f8d0f89 
+dans le répertoire de base de données I:\Utbm\LO54\Data\Derby\FORMATION avec le chargeur de classe sun.misc.Launcher$AppClassLoader@1d44bcfa
+Chargé de file:/I:/Utbm/LO54/App/jdk/db/lib/derby.jar
 java.vendor=Oracle Corporation
 java.runtime.version=1.8.0_25-b18
-user.dir=D:\School_Utbm\LO54\envDev\App\jdk\db
+user.dir=I:\Utbm\LO54\App\jdk\db
 os.name=Windows 8.1
 os.arch=amd64
 os.version=6.3
-derby.system.home=D:\School_Utbm\LO54\envDev\Data\Derby
+derby.system.home=I:\Utbm\LO54\Data\Derby
 Chargeur de classe de la base de données démarré - derby.database.classpath = ''
+----------------------------------------------------------------
+Fri Jun 10 01:46:34 CEST 2016 : fermeture du moteur Derby
