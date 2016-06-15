@@ -12,3 +12,8 @@ os.arch=amd64
 os.version=6.3
 derby.system.home=I:\Utbm\LO54\Data\Derby
 Chargeur de classe de la base de données démarré - derby.database.classpath = ''
+----------------------------------------------------------------
+Wed Jun 15 19:09:57 CEST 2016 : fermeture du moteur Derby
+----------------------------------------------------------------
+Wed Jun 15 19:09:57 CEST 2016:
+Fermeture de l'instance a816c00e-0155-5504-4c47-ffff8f8d0f89 sur le répertoire de base de données I:\Utbm\LO54\Data\Derby\FORMATION avec le chargeur de classe sun.misc.Launcher$AppClassLoader@1d44bcfa 
