@@ -1,7 +1,7 @@
-Fri Jun 10 15:29:00 CEST 2016 : Apache Derby Network Server - 10.10.1.3 - (1557168) démarré et prêt à accepter les connexions sur le port 1527
+Wed Jun 15 11:27:52 CEST 2016 : Apache Derby Network Server - 10.10.1.3 - (1557168) démarré et prêt à accepter les connexions sur le port 1527
 ----------------------------------------------------------------
-Fri Jun 10 15:29:01 CEST 2016:
-Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.10.1.3 - (1557168) : instance a816c00e-0155-3a80-23c1-ffff8f8d0f89 
+Wed Jun 15 11:27:53 CEST 2016:
+Amorçage de Derby version The Apache Software Foundation - Apache Derby - 10.10.1.3 - (1557168) : instance a816c00e-0155-5363-6b3e-ffff8f8d0f89 
 dans le répertoire de base de données I:\Utbm\LO54\Data\Derby\FORMATION avec le chargeur de classe sun.misc.Launcher$AppClassLoader@1d44bcfa
 Chargé de file:/I:/Utbm/LO54/App/jdk/db/lib/derby.jar
 java.vendor=Oracle Corporation
@@ -13,4 +13,7 @@ os.version=6.3
 derby.system.home=I:\Utbm\LO54\Data\Derby
 Chargeur de classe de la base de données démarré - derby.database.classpath = ''
 ----------------------------------------------------------------
-Fri Jun 10 15:39:54 CEST 2016 : fermeture du moteur Derby
+Wed Jun 15 11:34:39 CEST 2016 : fermeture du moteur Derby
+----------------------------------------------------------------
+Wed Jun 15 11:34:39 CEST 2016:
+Fermeture de l'instance a816c00e-0155-5363-6b3e-ffff8f8d0f89 sur le répertoire de base de données I:\Utbm\LO54\Data\Derby\FORMATION avec le chargeur de classe sun.misc.Launcher$AppClassLoader@1d44bcfa 
